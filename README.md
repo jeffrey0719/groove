@@ -37,4 +37,4 @@ We welcome contributions from the community! If you're interested in enhancing G
 GNU GENERAL PUBLIC LICENSE
 
 ## Contact
-For support or any queries, feel free to reach [Antonio](mailto:ahalkiadakis@albany.edu), or [Nick](mailto:nkammerer@albany.edu).
+For support or any queries, feel free to reach [Antonio](mailto:ahalkiadakis@albany.edu),[Jeff](mailto:jyinusa@albany.edu) or [Nick](mailto:nkammerer@albany.edu).
